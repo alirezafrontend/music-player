@@ -2,15 +2,15 @@
 
 Experience the ultimate sound quality with our cutting-edge music player, designed to enhance your listening pleasure with seamless playback and a user-friendly interface. 
 
-![viewfinal](https://github.com/user-attachments/assets/4c509a18-6fe0-4870-9041-e386674d1b05) 
+![viewfinal](https://github.com/user-attachments/assets/b1cae8f8-3199-4d52-81c1-f3f4c952e0c1) 
 
-![viewfinal](https://github.com/user-attachments/assets/5331d12b-22d5-40e7-8289-326082aed6ab) 
+![viewfinal](https://github.com/user-attachments/assets/fa7ce7d3-44f4-4253-943c-853d2684e38c) 
 
-![viewfinal](https://github.com/user-attachments/assets/3d22934b-8592-4934-88d1-23647aab883c)
+![viewfinal](https://github.com/user-attachments/assets/0206fbdc-a655-48d4-9297-260b9807a0a4)
 
-![viewfinal](https://github.com/user-attachments/assets/3888a576-d49d-4ec1-ab4c-fb6d927f4a3f) 
+![viewfinal](https://github.com/user-attachments/assets/a172d29b-1029-462b-aa0d-4040660f9963) 
 
-![viewfinal](https://github.com/user-attachments/assets/badb3760-e743-4bfc-ac63-4b1e338b2b48) 
+![viewfinal](https://github.com/user-attachments/assets/c2b2f8f9-c6d0-43ed-aac7-d73ba3e7cfcd) 
 
 ### [Watch Demo](https://alirezafrontend.github.io/music-player/ "Watch Demo")
 
